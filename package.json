@@ -1,0 +1,14 @@
+{
+  "name": "oaclient",
+  "version": "1.0.0",
+  "description": "chuanyun client",
+  "main": "main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "author": "tao",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "electron": "^11.1.1"
+  }
+}
