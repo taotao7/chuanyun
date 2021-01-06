@@ -25,7 +25,8 @@
   "config": {
     "forge": {
       "packagerConfig": {
-        "icon": "./assets/logo.ico"
+        "iconUrl": "/home/tao/OAClient/assets/logo.ico",
+        "loadingGif": "/home/tao/OAClient/assets/install.gif"
       },
       "makers": [
         {
