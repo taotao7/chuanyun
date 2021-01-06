@@ -23,6 +23,7 @@ const createWindow = () => {
     webPreferences: {
       nodeIntegration: true,
     },
+    icon: "./assets/logo.ico",
   });
   win.loadURL(url);
 
